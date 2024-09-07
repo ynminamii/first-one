@@ -26,4 +26,12 @@ let dados = [{
     palavraChave: "istanley, estanley, stalei, estanlei",
 }
 
+, {
+    titulo: "Piranha",
+    linhas: "Piranhas Famosas: Allyson, William",
+    link: "https://www.stanleyblackanddecker.com/",
+    descricao: "Onde Vivem? As Duas piranhas mineiras que vivem na cidade de são josé dos campos. Detalhe, uma é loira e outra morena.",
+    palavraChave: "istanley, estanley, stalei, estanlei",
+}
+
 ];
