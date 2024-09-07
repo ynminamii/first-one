@@ -33,7 +33,7 @@ function pesquisar() {
     }
 
     if (!resultados) {
-        resultados = "<p>Não encontramos resultados para a sua pesquisa.</p>";
+        resultados = "<p>Não encontramos resultados para a sua pesquisa. Tente pesquisar por Makita, Bosch, Dewalt e etc...</p>";
       }
 
     // Atribui a string com os resultados ao conteúdo da seção HTML
